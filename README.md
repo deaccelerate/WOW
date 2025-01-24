@@ -1,4 +1,4 @@
-# WOW
+# WOW ^_^
 
 WOW (Wrapper of a wrapper) is a lightweight enhancer forerunner for [ZerePy](https://github.com/blorm-network/ZerePy), designed for maximum obstruction. 
 
